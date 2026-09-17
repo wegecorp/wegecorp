@@ -1,5 +1,5 @@
 # 💫 About Me:
-💡A Student (Health Promotion Applied Bachelor - UNY)<br>💼Health Digital Marketer<br>Contact me on:
+💡A Student (Health Promotion Applied Bachelor - UNY)<br>💼Health Digital Marketer<br>📲Contact me on:
 <br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/habibamrkanz/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@wegecorp) 
 
 # 💻 Tech Stack:
